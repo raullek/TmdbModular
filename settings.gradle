@@ -1,0 +1,4 @@
+rootProject.name='TmdbModular'
+include ':app'
+include ':app:core'
+include ':authorization'
